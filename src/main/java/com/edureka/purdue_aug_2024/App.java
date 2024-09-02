@@ -10,4 +10,11 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    // changes in b1 branch
+    public void b1() {
+    	System.out.println( "This is b1 branch" );
+	}
 }
+
+
