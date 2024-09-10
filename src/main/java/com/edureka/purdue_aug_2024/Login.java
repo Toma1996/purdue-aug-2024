@@ -16,4 +16,9 @@ public class Login
     public void b1111() {
 		System.out.println("Method -03");
 	}
+
+	// from dev 2 and y branch
+    public void m6() {
+		System.out.println("from dev 2 and y branch");
+	}
 }
