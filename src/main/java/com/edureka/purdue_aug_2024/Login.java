@@ -24,13 +24,18 @@ public class Login {
 		System.out.println("from dev 1 and x branch");
 
 	}
-	//
+	
 	// from dev 1 and z branch
 		public void m7() {
 			System.out.println("from dev 1 and z branch");
 
 		}
-		//
+		// from dev 1 and z branch
+				public void m8() {
+					System.out.println("from dev 1 and z branch");
+
+				}
+
 		
 		
 		
